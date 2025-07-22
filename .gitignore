@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+book_quotes_vectorstore/
+chapter_summaries_vector_store/
+chunks_vector_store/
+chapter_summaries_checkpoint.pkl
+RAGAS.ipynb
+
+
+
